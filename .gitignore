@@ -251,62 +251,10 @@ paket-files/
 .idea/
 *.sln.iml
 
-# Pro
-src/AbpVnext.Pro.Web/Logs/*
-src/AbpVnext.Pro.Web.Host/Logs/*
-src/AbpVnext.Pro.Web.Public/Logs/*
-src/AbpVnext.Pro.Web.Public.Host/Logs/*
-src/AbpVnext.Pro.AuthServer/Logs/*
-src/AbpVnext.Pro.HttpApi.Host/Logs/*
-src/AbpVnext.Pro.HttpApi.Host/Logs/*
-src/AbpVnext.Pro.DbMigrator/Logs/*
-src/AbpVnext.Pro.Blazor.Server/Logs/*
-src/AbpVnext.Pro.Blazor.Server.Tiered/Logs/*
+# Demo
+demo/X.Captcha.Demo/Logs/*
 
 # Use abp install-libs to restore.
 **/wwwroot/libs/*
 
-# IdentityServer temp files
-tempkey.rsa
-tempkey.jwk
-
 deploy/nuget-api-key.txt
-
-# X Abp
-AbpVnext.Pro.*
-src/
-test/
-modules/X.Abp.Account.Pro/src/X.Abp.Account.Pro.Installer/
-modules/X.Abp.AuditLogging/src/X.Abp.AuditLogging.Installer/
-modules/X.Abp.AuditLogging/src/X.Abp.AuditLogging.Web/
-modules/X.Abp.Cli/src/X.Abp.Cli.Core/
-modules/X.Abp.Gdpr/src/X.Abp.Gdpr.Installer/
-modules/X.Abp.Gdpr/src/X.Abp.Gdpr.Web/
-modules/X.Abp.Identity.Pro/src/X.Abp.Identity.Pro.Installer/
-modules/X.Abp.Identity.Pro/src/X.Abp.Identity.Pro.Web/
-modules/X.Abp.IdentityServer/src/X.Abp.IdentityServer.Installer/
-modules/X.Abp.IdentityServer/src/X.Abp.IdentityServer.Web/
-modules/X.Abp.LanguageManagement/src/X.Abp.LanguageManagement.Installer/
-modules/X.Abp.LanguageManagement/src/X.Abp.LanguageManagement.Web/
-modules/X.Abp.OpenIddict.Pro/src/X.Abp.OpenIddict.Pro.Installer/
-modules/X.Abp.OpenIddict.Pro/src/X.Abp.OpenIddict.Pro.Web/
-modules/X.Abp.TextTemplateManagement/src/X.Abp.TextTemplateManagement.Installer/
-modules/X.Abp.TextTemplateManagement/src/X.Abp.TextTemplateManagement.Web/
-modules/X.Chat/src/X.Chat.Installer/
-modules/X.CmsKit.Pro/src/X.CmsKit.Pro.Installer/
-modules/X.CmsKit.Pro/src/X.CmsKit.Pro.Admin.Web/
-modules/X.CmsKit.Pro/src/X.CmsKit.Pro.Public.Web/
-modules/X.CmsKit.Pro/src/X.CmsKit.Pro.Web/
-modules/X.FileManagement/src/X.FileManagement.Installer/
-modules/X.FileManagement/src/X.FileManagement.Web/
-modules/X.Forms/src/X.Forms.Installer/
-modules/X.Forms/src/X.Forms.Web/
-modules/X.Iot/src/X.Iot.Installer/
-modules/X.Payment/src/X.Payment.Installer/
-modules/X.Payment/src/X.Payment.Admin.Web/
-modules/X.Payment/src/X.Payment.Web/
-modules/X.Quartz/src/X.Quartz.Installer/
-modules/X.Saas/src/X.Saas.Installer/
-modules/X.Saas\src/X.Saas.Host.Web/
-modules/X.VersionManagement/src/X.VersionManagement.Installer/
-modules/X.VersionManagement/src/X.VersionManagement.Web/
