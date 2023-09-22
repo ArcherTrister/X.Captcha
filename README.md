@@ -1,6 +1,6 @@
 # X.Captcha
 
-XCaptcha for ASP NET Core 6-7.0
+XCaptcha for ASP NET Core 5.0-7.0
 
 # Install-Package
 
